@@ -1,0 +1,15 @@
+参考文献
+
+[1] YAN Z, BAI X-C, YAN C, et al. Structure of the rabbit ryanodine receptor RyR1 at near-atomic resolution [J]. Nature, 2015, 517(7532): 50-5.
+[2] ANFINSEN C B. Principles that govern the folding of protein chains [J]. Science, 1973, 181(4096): 223-30.
+[3] ZWANZIG R, SZABO A, BAGCHI B. Levinthal's paradox [J]. Proceedings of the National Academy of Sciences, 1992, 89(1): 20-2.
+[4] DILL K A, MACCALLUM J L. The Protein-Folding Problem, 50 Years On [J]. Science, 2012, 338(6110): 1042-6.
+[5] BOWIE J U, LüTHY R, EISENBERG D. A method to identify protein sequences that fold into a known three-dimensional structure [J]. Science, 1991, 253(5016): 164-70.
+[6] WANG S, SUN S, LI Z, et al. Accurate de novo prediction of protein contact map by ultra-deep learning model [J]. PLoS computational biology, 2017, 13(1): e1005324.
+[7] SENIOR A W, EVANS R, JUMPER J, et al. Protein structure prediction using multiple deep neural networks in the 13th Critical Assessment of Protein Structure Prediction (CASP13) [J]. Proteins: structure, function, and bioinformatics, 2019, 87(12): 1141-8.
+[8] YANG J, ANISHCHENKO I, PARK H, et al. Improved protein structure prediction using predicted interresidue orientations [J]. Proceedings of the National Academy of Sciences, 2020, 117(3): 1496-503.
+[9] PEARCE R, ZHANG Y. Toward the solution of the protein structure prediction problem [J]. Journal of Biological Chemistry, 2021, 297(1).
+[10] PEREIRA J, SIMPKIN A J, HARTMANN M D, et al. High‐accuracy protein structure prediction in CASP14 [J]. Proteins: Structure, Function, and Bioinformatics, 2021, 89(12): 1687-99.
+[11] ABRAMSON J, ADLER J, DUNGER J, et al. Accurate structure prediction of biomolecular interactions with AlphaFold 3 [J]. Nature, 2024: 1-3.
+[12] LIN Z, AKIN H, RAO R, et al. Language models of protein sequences at the scale of evolution enable accurate structure prediction [J]. BioRxiv, 2022, 2022: 500902.
+[13] KRISHNA R, WANG J, AHERN W, et al. Generalized biomolecular modeling and design with RoseTTAFold All-Atom [J]. Science, 2024, 384(6693): eadl2528.
